@@ -12,7 +12,6 @@ Welcome to the Leads Generation API, an advanced solution designed to transform 
 
  ___
 
-___
 
 # Features
 <br />
