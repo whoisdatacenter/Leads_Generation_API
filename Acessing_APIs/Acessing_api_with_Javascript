@@ -1,0 +1,13 @@
+const apiURL = 'https://api.whoisdatacenter.com/v1/download/proxy?apiKey={place_your_api_key_here}&date=2024-01-31';
+
+fetch(apiURL)
+.then(response => response.blob())
+.then(blob => {
+const url = window.URL.createObjectURL(blob);
+const a = document.createElement('a');
+a.href = url;
+a.download = 'downloaded_data.zip';
+document.body.appendChild(a);
+a.click();
+document.body.removeChild(a);
+});
