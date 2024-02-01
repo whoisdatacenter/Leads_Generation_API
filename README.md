@@ -1,13 +1,13 @@
-# Leads_Generation_API
-The Leads Generation API is an innovative tool designed to revolutionize the process of lead generation in the digital marketing and sales landscape.It will extract email and name form the domains By harnessing the power of domain information, this API specializes in creating valuable leads based on domain-associated names and email addresses.
+# Proxy_Removed_API
+The  API is an innovative tool designed to revolutionize the process of lead generation in the digital marketing and sales landscape.It will extract email and name form the domains By harnessing the power of domain information, this API specializes in creating valuable leads based on domain-associated names and email addresses.
 
 
 ___
-# Welcome To Leads_Generation_API
+# Welcome To Proxy_Removed_API
  
 **Introduction**
 
-Welcome to the Leads Generation API, an advanced solution designed to transform the way businesses approach lead generation in the digital era. Leveraging comprehensive domain information, this API is adept at creating high-quality leads based on names and email addresses associated with various domains. It's an indispensable tool for sales and marketing professionals who are looking to enhance their outreach strategies with targeted, effective lead generation.
+Welcome to the  Proxy_Removed_API, an advanced solution designed to transform the way businesses approach lead generation in the digital era. Leveraging comprehensive domain information, this API is adept at creating high-quality leads based on names and email addresses associated with various domains. It's an indispensable tool for sales and marketing professionals who are looking to enhance their outreach strategies with targeted, effective lead generation.
  <br />
 
  ___
@@ -38,7 +38,7 @@ Welcome to the Leads Generation API, an advanced solution designed to transform 
     
 ___
 
-# Leads Generation API Endpoint:
+# Proxy_Removed_API Endpoint:
 ```
 https://api.whoisdatacenter.com/v1/download/leads?apiKey={place_your_api_key_here}&date=2024-01-30
 ```
@@ -76,7 +76,7 @@ ___
 <br/>
 
  **🔗 Don't Miss Out! Click here to explore:** 
- # https://whoisdatacenter.com/api-documentation/#leads-generation
+ # https://whoisdatacenter.com/api-documentation/#Proxy_Removed
 
 **Unlock the full potential of domain data analytics with just one click!**
 
