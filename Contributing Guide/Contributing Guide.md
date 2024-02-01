@@ -1,6 +1,6 @@
 # Contributing to the Expiring-Feeds-API Project
 
-Thank you for your interest in contributing to our Leads_Generation_API project! This project aims to create a comprehensive and accessible list of expiring domains available through our API. Contributions from the community are essential to keep our database rich, current, and useful for everyone.
+Thank you for your interest in contributing to our Proxy_Removed__API project! This project aims to create a comprehensive and accessible list of expiring domains available through our API. Contributions from the community are essential to keep our database rich, current, and useful for everyone.
 
 # How to Contribute
 __
